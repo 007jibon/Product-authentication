@@ -120,7 +120,7 @@ AuthentiTrack/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/rahimuj570/AuthentiTrack
+   git clone https://github.com/007jibon/Product Authentication
    cd AuthentiTrack
 
 
